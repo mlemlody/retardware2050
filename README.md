@@ -57,17 +57,8 @@ Join our groups:
 - [Chat](https://t.me/cathookcom).
 - [Announcements](https://t.me/cathookmel).
 <div align="center">
-
-## Yes, it is still actively maintained.
-
-</div>
-
-I will maintain this cheat until it becomes impossible or a better version/CH2 is released.
-A 9-year history can't be lost.
-
-<div align="center">
-
-## Reporting issues
+    
+## Reporting issues (dont)
 
 </div>
 
